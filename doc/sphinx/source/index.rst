@@ -10,14 +10,14 @@ Blender-Addon-Photgrammetry-Importer
 
 .. 
    https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html
-      Heading Levels (recommended order)
-         # with overline
-         * with overline
-         =
-         -
-         ^
-         "
-   There should be only one H1 in a document.
+		Heading Levels (recommended order)
+			# with overline
+			* with overline
+			=
+			-
+			^
+			"
+	There should be only one H1 in a document.
 
 This documentation describes an `addon for Blender <https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer>`_ that allows to import different reconstruction results of several :code:`Structure from Motion` and :code:`Multi-View Stereo` libraries.
 
@@ -127,8 +127,8 @@ The addon offers an option to draw big point clouds with OpenGL to reduce comput
    :align: center
 
 ..
-   Indices and tables
-   ==================
+	Indices and tables
+	==================
 
-   * :ref:`genindex`
-   * :ref:`search`
+	* :ref:`genindex`
+	* :ref:`search`
